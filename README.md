@@ -362,7 +362,7 @@ curl -s "https://urlflix.xyz/views/$VIEWS" | grep -oE 'href="https://[^"]+' | se
 ## Files
 
 ```
-moviesmod-analysis/
+claude-code-ethical-research/
 ├── README.md      # This documentation + AI case study
 ├── AGENT.md       # Instructions for AI assistants (clone/fork context)
 └── extract.sh     # Link extraction script (bash, no dependencies)

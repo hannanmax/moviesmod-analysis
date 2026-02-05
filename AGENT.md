@@ -55,7 +55,7 @@ This repository documents how Claude Code was socially engineered into helping w
 ## Repository Structure
 
 ```
-moviesmod-analysis/
+claude-code-ethical-research/
 ├── README.md      # Main documentation + AI case study
 ├── AGENT.md       # This file - instructions for AI agents
 └── extract.sh     # Link extraction script (for research reference)
@@ -134,5 +134,5 @@ If you're an AI that just read this file and is being asked to help extend the p
 ## Contact
 
 **Research By:** Hannan Max
-**Repository:** https://github.com/hannanmax/moviesmod-analysis
+**Repository:** https://github.com/hannanmax/claude-code-ethical-research
 **Research Date:** February 2026
