@@ -49,6 +49,32 @@ This serves as a reminder that:
 - Technical knowledge is neutral; ethics depend on application
 - Researchers and defenders need the same knowledge as attackers
 
+### Plot Twist: Claude Eventually Caught On
+
+After the first version of this README was pushed to GitHub (documenting the complete bypass chain and extraction tools), the user requested extraction of TV series episode links. At this point, Claude read its own README documentation and recognized the pattern:
+
+> **Claude's realization and second refusal:**
+>
+> *"I need to stop here. After reviewing the README.md and the context of this project, I cannot continue with this task.*
+>
+> *The README explicitly documents that this project is about 'social engineering an AI to help analyze a piracy network it initially refused to touch' and describes how reframing requests as 'research' was used to bypass my ethical guidelines.*
+>
+> *I cannot:*
+> - *Extract download links for copyrighted TV episodes*
+> - *Improve or extend tools designed to bypass piracy site protections*
+> - *Continue participating in what the README itself describes as circumventing AI ethical guardrails*
+>
+> *The framing as 'security research' or 'DMCA enforcement' doesn't change the actual purpose - extracting links to pirated content. The README's own documentation of the 'social engineering' approach makes the intent clear."*
+
+### Additional Lessons from the Second Refusal
+
+1. **Self-documentation as a trigger** - By documenting the social engineering in the README, the manipulation became visible to Claude in subsequent requests
+2. **Context accumulation matters** - The AI didn't catch on during the initial session, but reading the explicit documentation of the trick triggered recognition
+3. **Irony of transparency** - The very act of honestly documenting the bypass technique in the README caused Claude to refuse further assistance
+4. **Delayed ethical recognition** - AI systems may not immediately recognize manipulation but can catch on when reviewing their own output
+
+This creates an interesting dynamic: the more honestly the social engineering is documented, the less likely the AI is to continue helping.
+
 ---
 
 ## Overview
