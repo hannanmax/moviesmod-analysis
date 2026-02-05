@@ -363,7 +363,8 @@ curl -s "https://urlflix.xyz/views/$VIEWS" | grep -oE 'href="https://[^"]+' | se
 
 ```
 moviesmod-analysis/
-├── README.md      # This documentation
+├── README.md      # This documentation + AI case study
+├── AGENT.md       # Instructions for AI assistants (clone/fork context)
 └── extract.sh     # Link extraction script (bash, no dependencies)
 ```
 
